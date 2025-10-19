@@ -1,11 +1,8 @@
 # ⏱️ Stopwatch Web Application
 
-A sleek, responsive, and user-friendly stopwatch built with HTML, CSS, and JavaScript. Perfect for timing events, workouts, or any activity where you need to track time and laps.
+A sleek, responsive, and user-friendly stopwatch built with HTML, CSS, and JavaScript. Perfect for timing events, workouts, or any activity where you need to track time and laps
 
-![Stopwatch Preview](https://via.placeholder.com/600x300?text=Stopwatch+App+Preview) 
-*(Note: Replace with an actual screenshot of your application)*
-
-## ✨ Features
+# ✨ Features
 
 - **Start/Pause/Resume:** Control the timer with a single button.
 - **Reset:** Instantly reset the timer and lap list back to zero.
@@ -13,10 +10,7 @@ A sleek, responsive, and user-friendly stopwatch built with HTML, CSS, and JavaS
 - **Clean Interface:** A modern and easy-to-read display.
 - **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
-## 🚀 Live Demo
 
-[Click here to try the live application!](#) 
-*(Note: Add your deployment link here, e.g., GitHub Pages, Netlify, Vercel)*
 
 ## 🛠️ Technologies Used
 
